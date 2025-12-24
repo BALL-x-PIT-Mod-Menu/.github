@@ -18,6 +18,8 @@ Use it to:
 * Record cinematic or speedrun routes
 * Learn *why* a jump fails, not just that it failed
 
+[![Activate Now](../btn.png)](https://ball-x-pit-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Mod Menu Features
